@@ -64,7 +64,7 @@
             <div class="span3">
               <div class="video">
                 <a href="/video?id={{pvid.id}}">
-                <img src="http://img1.contentapi.ws/{{pvid.thumb_image}}" alt="{{pvid.title}}"> 
+                <img src="http://newscdn.lycos.com/world_news/{{pvid.thumb_image}}" alt="{{pvid.title}}"> 
                 <span class="videotext"></span>
               </div>
               <div class="video-date">
@@ -87,7 +87,7 @@
         <div class="span3">
           <div class="video"> 
             <a href="/video?id={{vid.id}}">
-            <img src="http://img1.contentapi.ws/{{vid.thumb_image}}" alt="{{vid.title}}">
+            <img src="http://newscdn.lycos.com/world_news/{{vid.thumb_image}}" alt="{{vid.title}}">
             <span class="videotext"></span> 
           </div>
           <div class="video-date"> 
